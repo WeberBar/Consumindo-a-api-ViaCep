@@ -1,5 +1,5 @@
-# Consumindo a api ViaCep e trabalhando com exceções
-Este projeto consiste em criar uma aplicação em Java que consulte a API ViaCEP, mostrando para os usuários as informações sobre seu endereço usando JavaFx.
+# Consumindo a api ViaCep 
+Este projeto consiste em criar uma aplicação em Java que consulte a API <a href="https://viacep.com.br/"> ViaCEP </a>, mostrando para os usuários as informações sobre seu endereço usando JavaFx.
 <hr>
 
 ### Acessando o webservice de CEP
