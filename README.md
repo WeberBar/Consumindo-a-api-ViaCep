@@ -53,7 +53,7 @@ Para realizar conversão do arquivo em um objeto precisamos usar uma biblioteca 
 
 ![video mostrando como adicionar a biblioteca Gson no nosso projeto](ConfigGson.gif)
 
-### Adicionar dependencia no Maven
+### Adicionar dependência no Maven
 
 ```xml
 <dependency>
